@@ -8,6 +8,6 @@ public class Main {
             System.out.println(i);
         }
 
-        System.out.println("Czad");
+        System.out.println("Czad w chuj");
     }
 }
