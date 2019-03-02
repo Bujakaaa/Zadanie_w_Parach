@@ -7,9 +7,10 @@ public class Main {
         }
 
         for (int i = 50; i > 0 ; i--) {
-            System.out.println(i);
-        }
 
         System.out.println("Czad w chuj");
     }
+
+  }
+
 }
